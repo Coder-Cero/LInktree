@@ -1,6 +1,6 @@
 /* Body Styling */
 body {
-  background: linear-gradient(to bottom, #fffbf3, #f7ede2); /* Subtle gradient */
+  background-color: #fffbf3; /* Subtle gradient */
   font-family: 'Open Sans', sans-serif; /* Default font for body text */
   margin: 0;
   padding: 0;
@@ -38,7 +38,7 @@ body {
   font-family: 'Montserrat', sans-serif; /* Stylish font for buttons */
   background-color: #3b82f6; /* Vibrant Sky Blue */
   color: #ffffff; /* White text */
-  border: 2px solid black; /* Black border */
+  border: 4px solid black; /* Black border */
   padding: 10px 20px;
   border-radius: 8px;
   cursor: pointer;
@@ -51,8 +51,6 @@ body {
   background-color: #10b981; /* Electric Lime Green on hover */
   border-color: #10b981;
 }
-
-/* Image Styling */
 .image img {
   width: 150px; /* Set the width of the container */
   height: 150px; /* Set the height of the container (equal to width for a perfect circle) */
